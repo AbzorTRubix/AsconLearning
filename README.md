@@ -1,4 +1,4 @@
-Check Point Rule Deleter
+Ascon Learning
 ========================
 Starting Virtual Environment
 ----------------------------
